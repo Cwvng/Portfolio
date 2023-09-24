@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/header';
 
 function App() {
   return (
     <>
-      <h1>Just a demo app</h1>
+      <Header/>
     </>
   );
 }
